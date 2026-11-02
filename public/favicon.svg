@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0d1117" />
+  <rect x="2" y="2" width="60" height="60" rx="12" stroke="#f59e0b" stroke-opacity="0.3" stroke-width="2" />
+  <!-- Stylized EV Car / Circuit Wave -->
+  <path d="M12 40C12 36 15 33 19 33H45C49 33 52 36 52 40" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" />
+  <circle cx="21" cy="42" r="5" fill="#0d1117" stroke="#f59e0b" stroke-width="3" />
+  <circle cx="21" cy="42" r="2" fill="#f59e0b" />
+  <circle cx="43" cy="42" r="5" fill="#0d1117" stroke="#f59e0b" stroke-width="3" />
+  <circle cx="43" cy="42" r="2" fill="#f59e0b" />
+  <path d="M18 33L23 20C24 18 26 17 28 17H36C38 17 40 18 41 20L46 33" stroke="#ea580c" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Lightning Bolt -->
+  <path d="M33 12L27 24H33L31 34L40 22H34L37 12Z" fill="#fbbf24" stroke="#d97706" stroke-width="1" stroke-linejoin="round" />
+</svg>
